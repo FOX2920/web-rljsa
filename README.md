@@ -70,7 +70,7 @@ Official website for CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU ROYAL LOTUS (Roya
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/royal-lotus-website.git
+   git clone https://github.com/FOX2920/royal-lotus-website.git
    cd royal-lotus-website
    ```
 2. Install dependencies:
